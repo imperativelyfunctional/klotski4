@@ -1,0 +1,377 @@
+[
+  {
+    "id": 1,
+    "name": "橫刀立馬",
+    "difficulty": 3,
+    "positions": [
+      {
+        "index": 0,
+        "info": 5
+      },
+      {
+        "index": 1,
+        "info": 3
+      },
+      {
+        "index": 3,
+        "info": 4
+      },
+      {
+        "index": 8,
+        "info": 7
+      },
+      {
+        "index": 9,
+        "info": 0
+      },
+      {
+        "index": 11,
+        "info": 6
+      },
+      {
+        "index": 16,
+        "info": 1
+      },
+      {
+        "index": 13,
+        "info": 1
+      },
+      {
+        "index": 14,
+        "info": 2
+      },
+      {
+        "index": 19,
+        "info": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "先擒後從",
+    "difficulty": 1,
+    "positions": [
+      {
+        "index": 0,
+        "info": 5
+      },
+      {
+        "index": 1,
+        "info": 1
+      },
+      {
+        "index": 2,
+        "info": 2
+      },
+      {
+        "index": 3,
+        "info": 4
+      },
+      {
+        "index": 5,
+        "info": 3
+      },
+      {
+        "index": 13,
+        "info": 0
+      },
+      {
+        "index": 12,
+        "info": 7
+      },
+      {
+        "index": 17,
+        "info": 1
+      },
+      {
+        "index": 18,
+        "info": 2
+      },
+      {
+        "index": 15,
+        "info": 6
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "齊頭並進",
+    "difficulty": 1,
+    "positions": [
+      {
+        "index": 0,
+        "info": 5
+      },
+      {
+        "index": 8,
+        "info": 1
+      },
+      {
+        "index": 11,
+        "info": 2
+      },
+      {
+        "index": 3,
+        "info": 4
+      },
+      {
+        "index": 1,
+        "info": 3
+      },
+      {
+        "index": 13,
+        "info": 0
+      },
+      {
+        "index": 12,
+        "info": 7
+      },
+      {
+        "index": 9,
+        "info": 1
+      },
+      {
+        "index": 10,
+        "info": 2
+      },
+      {
+        "index": 15,
+        "info": 6
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "欲罷不能",
+    "difficulty": 1,
+    "positions": [
+      {
+        "index": 1,
+        "info": 3
+      },
+      {
+        "index": 3,
+        "info": 5
+      },
+      {
+        "index": 4,
+        "info": 1
+      },
+      {
+        "index": 9,
+        "info": 0
+      },
+      {
+        "index": 8,
+        "info": 7
+      },
+      {
+        "index": 11,
+        "info": 4
+      },
+      {
+        "index": 16,
+        "info": 1
+      },
+      {
+        "index": 13,
+        "info": 6
+      },
+      {
+        "index": 18,
+        "info": 2
+      },
+      {
+        "index": 19,
+        "info": 2
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "殊途同歸",
+    "difficulty": 1,
+    "positions": [
+      {
+        "index": 0,
+        "info": 4
+      },
+      {
+        "index": 1,
+        "info": 5
+      },
+      {
+        "index": 2,
+        "info": 3
+      },
+      {
+        "index": 8,
+        "info": 2
+      },
+      {
+        "index": 10,
+        "info": 2
+      },
+      {
+        "index": 12,
+        "info": 6
+      },
+      {
+        "index": 13,
+        "info": 0
+      },
+      {
+        "index": 17,
+        "info": 1
+      },
+      {
+        "index": 18,
+        "info": 2
+      },
+      {
+        "index": 15,
+        "info": 7
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "一夫當關",
+    "difficulty": 1,
+    "positions": [
+      {
+        "index": 0,
+        "info": 4
+      },
+      {
+        "index": 1,
+        "info": 5
+      },
+      {
+        "index": 2,
+        "info": 6
+      },
+      {
+        "index": 3,
+        "info": 7
+      },
+      {
+        "index": 12,
+        "info": 2
+      },
+      {
+        "index": 9,
+        "info": 3
+      },
+      {
+        "index": 15,
+        "info": 2
+      },
+      {
+        "index": 16,
+        "info": 0
+      },
+      {
+        "index": 18,
+        "info": 2
+      },
+      {
+        "index": 19,
+        "info": 2
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "誤入歧途",
+    "difficulty": 1,
+    "positions": [
+      {
+        "index": 0,
+        "info": 5
+      },
+      {
+        "index": 1,
+        "info": 3
+      },
+      {
+        "index": 3,
+        "info": 4
+      },
+      {
+        "index": 8,
+        "info": 7
+      },
+      {
+        "index": 9,
+        "info": 1
+      },
+      {
+        "index": 10,
+        "info": 1
+      },
+      {
+        "index": 13,
+        "info": 0
+      },
+      {
+        "index": 17,
+        "info": 2
+      },
+      {
+        "index": 18,
+        "info": 2
+      },
+      {
+        "index": 15,
+        "info": 6
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "捷足先登",
+    "difficulty": 1,
+    "positions": [
+      {
+        "index": 0,
+        "info": 1
+      },
+      {
+        "index": 4,
+        "info": 1
+      },
+      {
+        "index": 1,
+        "info": 3
+      },{
+        "index": 3,
+        "info": 2
+      },
+      {
+        "index": 7,
+        "info": 2
+      },
+      {
+        "index": 9,
+        "info": 0
+      },
+      {
+        "index": 12,
+        "info": 5
+      },
+      {
+        "index": 13,
+        "info":4
+      },
+      {
+        "index": 14,
+        "info": 7
+      },
+      {
+        "index": 15,
+        "info": 6
+      }
+    ]
+  }
+]
